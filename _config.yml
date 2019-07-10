@@ -11,6 +11,7 @@ collections:
   resources:
     title: Resources
     output: true
+    permalink: "/resource/:path"
   successes:
     title: Successes
     output: true
@@ -55,6 +56,13 @@ defaults:
     is featured: false
     main-image: 
     layout: media-item
+- scope:
+    path: ''
+    type: resources
+  values:
+    is featured: false
+    main-image: 
+    layout: resource
 - scope:
     path: ''
     type: calendar
