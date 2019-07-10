@@ -10,11 +10,11 @@ date: 2019-07-10 10:41:00 -10:00
 **"Gut and Replace" practice:**  this practice takes an existing bill that is already making its way through the legislature and replaces the content with completely different text; this allows the new text to evade all the prior steps in the legislative procedure.  This is unfair with respect to the prior text which is now dead and to the new text which is not subject to the full legislative procedure. 
 Support Common Cause, League of Women Voters, and Civil Beat in their appeal from a District Court decision in January 2019 upholding "gut and replace" practice. Partner with Senator Laura Thielen, Common Cause, and League of Women Voters to introduce bill abolishing "gut and replace" practice and providing alternate procedures to meet the alleged need for this practice.
 
-**transparency:** partner with Senator Jarrett Keohokalole to introduce bill providing teleconferencing of hearings so other islands can join, recording all hearings, making them freely available 24/7 so people who work during the day can view, and allowing 24 hours after hearing for late submission of testimony from those who were unable to attend in person
+**Transparency:** partner with Senator Jarrett Keohokalole to introduce bill providing teleconferencing of hearings so other islands can join, recording all hearings, making them freely available 24/7 so people who work during the day can view, and allowing 24 hours after hearing for late submission of testimony from those who were unable to attend in person
 
-**accountability:** create tracking database on select bills incl voting records of individual legislators.  Pressure those voting “aye with reservations” to state their reservations on the record.
+**Accountability:** create tracking database on select bills incl voting records of individual legislators.  Pressure those voting “aye with reservations” to state their reservations on the record.
 
-**publicity:** publish voting records on social media and partner with mainstream media to publicize voting records and egregious backroom dealing, especially during floor votes in the final 10 days of the session
+**Publicity:** publish voting records on social media and partner with mainstream media to publicize voting records and egregious backroom dealing, especially during floor votes in the final 10 days of the session
 
 **Communication:** Encourage House and Senate to communicate internally and with each other to eliminate redundant bills (50%), encourage state and federal officials to work together on areas of common concern
 
