@@ -1,6 +1,6 @@
 ---
 title: Canvassing in CA-10
-date: 2017-08-17 16:29:00 -07:00
+date: 2017-08-17 13:29:00 -10:00
 tags:
 - canvassing
 - elections

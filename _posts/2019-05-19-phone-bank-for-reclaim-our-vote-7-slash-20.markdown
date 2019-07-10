@@ -1,6 +1,6 @@
 ---
 title: Phone Bank for Reclaim Our Vote 7/20
-date: 2019-05-19 21:19:00 -07:00
+date: 2019-05-19 18:19:00 -10:00
 categories:
 - event
 tags:
@@ -8,8 +8,8 @@ tags:
 - elections
 - canvassing
 main-image: "/uploads/3%20red%20phones%20copy%202-e065de.jpg"
-event-start-date: 2019-07-20 13:00:00 -07:00
-event-end-date: 2019-07-20 16:00:00 -07:00
+event-start-date: 2019-07-20 10:00:00 -10:00
+event-end-date: 2019-07-20 13:00:00 -10:00
 Location: South Berkeley home
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSdsQBWmfgzascGe4eR1NP4UCDsGCQ0NzVKZYeJsVKMaz4OoVQ/viewform
 ---

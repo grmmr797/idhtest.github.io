@@ -1,13 +1,13 @@
 ---
 title: Sample Ballot Mark-Up Party
-date: 2018-09-15 20:51:00 -07:00
+date: 2018-09-15 17:51:00 -10:00
 categories:
 - event
 tags:
 - elections
 is featured: true
-event-start-date: 2018-10-10 19:00:00 -07:00
-event-end-date: 2018-10-10 21:00:00 -07:00
+event-start-date: 2018-10-10 16:00:00 -10:00
+event-end-date: 2018-10-10 18:00:00 -10:00
 Location: Spats Berkeley, 1974 Shattuck Avenue, Berkeley, CA 94704
 RSVP-link: https://actionnetwork.org/events/sample-ballot-mark-up-party-2?source=direct_link&
 ---

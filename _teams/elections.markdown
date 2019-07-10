@@ -1,6 +1,6 @@
 ---
 title: Elections
-date: 2017-08-17 21:15:00 -07:00
+date: 2017-08-17 18:15:00 -10:00
 position: 0
 teamtag: elections
 team-email: elections

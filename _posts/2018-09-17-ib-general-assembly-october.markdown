@@ -1,13 +1,13 @@
 ---
 title: IB General Assembly - October
-date: 2018-09-17 21:50:00 -07:00
+date: 2018-09-17 18:50:00 -10:00
 categories:
 - event
 tags:
 - general assembly
 is featured: true
-event-start-date: 2018-10-14 19:30:00 -07:00
-event-end-date: 2018-10-14 21:00:00 -07:00
+event-start-date: 2018-10-14 16:30:00 -10:00
+event-end-date: 2018-10-14 18:00:00 -10:00
 ---
 
 Join us on October 14 for the next Indivisible Berkeley General Assembly! We will discuss models of organizing and put those learnings into practice.

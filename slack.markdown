@@ -1,6 +1,6 @@
 ---
 title: Slack
-date: 2017-08-07 11:36:00 -07:00
+date: 2017-08-07 08:36:00 -10:00
 position: 3
 ---
 
@@ -10,7 +10,7 @@ Slack is a messaging tool for teams, with customizable channels and notification
 
 ### How To Join
 
-Join our Slack group by clicking on [this link][slackinvite].
+Join our Slack group by clicking on [this link][slackinvite]
 
 See our videos below for a step-by-step signup tutorial!
 

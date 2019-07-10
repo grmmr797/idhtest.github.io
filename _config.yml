@@ -8,6 +8,10 @@ collections:
   representatives:
     title: Representatives
     output: false
+  resources:
+    title: Resources
+    output: true
+    permalink: "/resource/:path"
   successes:
     title: Successes
     output: true
@@ -54,6 +58,13 @@ defaults:
     layout: media-item
 - scope:
     path: ''
+    type: resources
+  values:
+    is featured: false
+    main-image: 
+    layout: resource
+- scope:
+    path: ''
     type: calendar
   values:
     embed-code: 
@@ -74,7 +85,7 @@ defaults:
 subtitle: 
 email: info@indivisiblehi.org
 baseurl: 
-url: indivisiblehi.org
+url: 
 twitter_username: "@IndivisibleHI"
 facebook_username: Indivisible-Hawaii-102454510271701
 background-image: "/uploads/IB-May2017-flags.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Berkeley Divests from Wells Fargo
-date: 2017-05-30 19:25:00 -07:00
+date: 2017-05-30 16:25:00 -10:00
 tags:
 - economic justice
 is featured: true

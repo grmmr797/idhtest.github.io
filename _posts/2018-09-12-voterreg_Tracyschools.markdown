@@ -1,14 +1,14 @@
 ---
 title: Register high school students in Tracy
-date: 2018-09-12 06:50:00 -07:00
+date: 2018-09-12 03:50:00 -10:00
 categories:
 - action
 tags:
 - voter registration
 - elections
 is featured: true
-event-start-date: 2018-09-18 10:00:00 -07:00
-event-end-date: 2018-09-27 13:30:00 -07:00
+event-start-date: 2018-09-18 07:00:00 -10:00
+event-end-date: 2018-09-27 10:30:00 -10:00
 Location: Tracy, CA
 RSVP-link: https://signupgenius.com/go/30e044bafa72ca4fe3-tracy
 ---

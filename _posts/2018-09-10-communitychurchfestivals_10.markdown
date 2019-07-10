@@ -1,13 +1,13 @@
 ---
 title: Register Latinos in Stanislaus & San Joaquin counties [CD-10]
-date: 2018-09-10 21:10:00 -07:00
+date: 2018-09-10 18:10:00 -10:00
 categories:
 - action
 tags:
 - elections
 - voter registration
-event-start-date: 2018-09-15 10:00:00 -07:00
-event-end-date: 2018-10-07 17:00:00 -07:00
+event-start-date: 2018-09-15 07:00:00 -10:00
+event-end-date: 2018-10-07 14:00:00 -10:00
 Location: California Congressional District 10
 RSVP-link: mailto:davidlmontgomery@gmail.com
 ---
