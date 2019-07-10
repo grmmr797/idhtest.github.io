@@ -1,6 +1,6 @@
 ---
 title: Racism and Criminal Justice Reform
-date: 2017-09-04 19:35:00 -07:00
+date: 2017-09-04 16:35:00 -10:00
 position: 2
 teamtag: rcjr
 team-email: rcjr

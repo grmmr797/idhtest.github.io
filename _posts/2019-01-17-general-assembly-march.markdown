@@ -1,14 +1,14 @@
 ---
 title: General Assembly - March
-date: 2019-01-17 23:01:00 -08:00
+date: 2019-01-17 21:01:00 -10:00
 categories:
 - event
 tags:
 - general assembly
 is featured: true
 main-image: "/uploads/2018%20group%20photo.jpg"
-event-start-date: 2019-03-10 19:30:00 -07:00
-event-end-date: 2019-03-10 21:00:00 -07:00
+event-start-date: 2019-03-10 16:30:00 -10:00
+event-end-date: 2019-03-10 18:00:00 -10:00
 Location: Finnish Hall, 1970 Chestnut St, Berkeley
 RSVP-link: https://indivisibleberkeley.org/event/general-assembly-march#can_embed_form
 embed-code: "<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet'

@@ -1,6 +1,6 @@
 ---
 title: Healthcare
-date: 2017-09-09 16:12:00 -07:00
+date: 2017-09-09 13:12:00 -10:00
 position: 3
 teamtag: healthcare
 team-email: healthcare

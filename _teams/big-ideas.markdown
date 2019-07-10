@@ -1,6 +1,6 @@
 ---
 title: Big Ideas
-date: 2017-08-07 12:23:00 -07:00
+date: 2017-08-07 09:23:00 -10:00
 published: false
 position: 6
 teamtag: bigideas

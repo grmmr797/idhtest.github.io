@@ -1,6 +1,6 @@
 ---
 title: Resources
-date: 2019-07-09 16:20:00 -07:00
+date: 2019-07-09 13:20:00 -10:00
 position: 9
 nav: true
 ---

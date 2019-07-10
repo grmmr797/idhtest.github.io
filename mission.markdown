@@ -1,6 +1,6 @@
 ---
 title: Mission
-date: 2017-08-24 23:00:00 -07:00
+date: 2017-08-24 20:00:00 -10:00
 position: 6
 nav: false
 ---

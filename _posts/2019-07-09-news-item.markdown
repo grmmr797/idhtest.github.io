@@ -1,13 +1,13 @@
 ---
 title: News Item
-date: 2019-07-09 15:55:00 -07:00
+date: 2019-07-09 12:55:00 -10:00
 categories:
 - update
 tags:
 - elections
 is featured: true
-event-start-date: 2019-07-09 00:00:00 -07:00
-event-end-date: 2019-07-09 00:00:00 -07:00
+event-start-date: 2019-07-08 21:00:00 -10:00
+event-end-date: 2019-07-08 21:00:00 -10:00
 ---
 
 This is a sample news item

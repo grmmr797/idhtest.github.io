@@ -1,6 +1,6 @@
 ---
 title: Economic Justice
-date: 2017-09-09 16:14:00 -07:00
+date: 2017-09-09 13:14:00 -10:00
 position: 5
 teamtag: economic-justice
 team-email: economics

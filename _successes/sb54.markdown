@@ -1,6 +1,6 @@
 ---
 title: SB 54 (CA Values Act) is now law!
-date: 2017-11-07 00:43:00 -08:00
+date: 2017-11-06 22:43:00 -10:00
 tags:
 - immigration
 is featured: true

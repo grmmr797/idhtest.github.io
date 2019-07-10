@@ -1,6 +1,6 @@
 ---
 title: Terms of Participation
-date: 2017-08-24 13:54:00 -07:00
+date: 2017-08-24 10:54:00 -10:00
 position: 5
 layout: page
 ---

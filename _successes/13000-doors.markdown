@@ -1,6 +1,6 @@
 ---
 title: 13,000 doors knocked and counting
-date: 2018-05-27 12:10:00 -07:00
+date: 2018-05-27 09:10:00 -10:00
 is featured: true
 main-image: "/uploads/IMG_3655.JPG"
 ---
