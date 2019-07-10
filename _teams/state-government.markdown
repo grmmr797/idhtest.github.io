@@ -16,7 +16,7 @@ Support Common Cause, League of Women Voters, and Civil Beat in their appeal fro
 
 **publicity:** publish voting records on social media and partner with mainstream media to publicize voting records and egregious backroom dealing, especially during floor votes in the final 10 days of the session
 
-**Communication: **Encourage House and Senate to communicate internally and with each other to eliminate redundant bills (50%), encourage state and federal officials to work together on areas of common concern
+**Communication:** Encourage House and Senate to communicate internally and with each other to eliminate redundant bills (50%), encourage state and federal officials to work together on areas of common concern
 
 **Oversight:** encourage oversight of executive branch incl gov office and all state agencies 
 
