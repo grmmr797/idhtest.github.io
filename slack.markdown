@@ -10,7 +10,7 @@ Slack is a messaging tool for teams, with customizable channels and notification
 
 ### How To Join
 
-Join our Slack group by clicking on [this link][slackinvite].
+Join our Slack group by clicking on [this link][slackinvite]
 
 See our videos below for a step-by-step signup tutorial!
 
