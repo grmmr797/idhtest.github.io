@@ -26,7 +26,7 @@ layout: default
         <div class="col-12 col-md-6 col-lg-4">
 
           <h3>
-              <a class="team-title" href="{{ team.url | absolute_url }}">{{ team.title }}</a>
+              <a class="team-title" href="{{ team.url | relative_url }}">{{ team.title }}</a>
           </h3>
           {% assign isfeature = "post['is featured'] == true" %}
           {% assign isteam  = "post.tags contains team.teamtag" %}
